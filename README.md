@@ -1,4 +1,4 @@
 # freshworks
 
-python3 accessing.py   // run in terminal
+python3 accessingdb.py   // run in terminal
 
